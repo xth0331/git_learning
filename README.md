@@ -7,7 +7,7 @@ A quick GitHub Demo to show the students at SMU
 
 ![gh-logo](https://user-images.githubusercontent.com/15793521/28505229-7317ae18-6fe7-11e7-8665-ae3539a72266.png)
 Hi, we are learning git together .
-we are going to record some git commands here.
+we are going to record some git commands here.  .eg add and so on
 
 what is GitHub?
 -----------
